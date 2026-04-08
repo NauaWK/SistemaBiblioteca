@@ -1,0 +1,13 @@
+com\treino\sistemabiblioteca\entidades\Livro.class
+com\treino\sistemabiblioteca\entidades\Biblioteca.class
+com\treino\sistemabiblioteca\entidades\Role.class
+com\treino\sistemabiblioteca\servicos\ServicoBiblioteca.class
+com\treino\sistemabiblioteca\servicos\ServicoMenu.class
+com\treino\sistemabiblioteca\servicos\ServicoAdmin.class
+com\treino\sistemabiblioteca\entidades\Emprestimo.class
+com\treino\sistemabiblioteca\servicos\ServicoCliente.class
+com\treino\sistemabiblioteca\servicos\Utils.class
+com\treino\sistemabiblioteca\entidades\Usuario.class
+com\treino\sistemabiblioteca\entidades\ISBNGerador.class
+com\treino\sistemabiblioteca\servicos\ServicoLogin.class
+com\treino\sistemabiblioteca\SistemaBiblioteca.class
